@@ -1,0 +1,3 @@
+#!/bin/bash
+
+source ./.scripts/git_hooks/add_issue_to_commit.sh

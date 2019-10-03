@@ -1,0 +1,2 @@
+COMMIT_MESSAGE=^(\[[A-Z]{2,3}\-[0-9]{4,5}\].+|Merge.*)$
+BRANCH_NAME=^((feature|hotfix)\/[0-9]{4,5}(_[a-z0-9_]{4,40})?|release.+|cherry-pick.+|develop)$
